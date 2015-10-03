@@ -57,4 +57,12 @@ The builder has the following options:<br>
 [+] You can set where you want to install the Rat<br>
 [+] File Pumper, Extension Spoofer and Icon Changer<br>
 
-Video : https://www.youtube.com/watch?v=0qMKKpPQvmo
+An image : 
+
+![image](http://doddyhackman.webcindario.com/images/dhrat10delphi.jpg)
+
+An video : 
+
+[![Alt text for your video](http://img.youtube.com/vi/0qMKKpPQvmo/0.jpg)](http://www.youtube.com/watch?v=0qMKKpPQvmo)
+
+Good Bye
