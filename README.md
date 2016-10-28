@@ -1,34 +1,71 @@
 DH Rat
-======
+=========
 
-A simple Delphi RAT I made in the following options:<br>
+A Rat made in Delphi.<br>
 <br>
-[+] List files in a directory with the ability to read or delete<br>
-[+] List and closing processes<br>
-[+] Run command<br>
-[+] Enable and disable Firewall<br>
-[+] Enable and disable Regedit<br>
-[+] Open and close CD drive<br>
-[+] Hide and show taskbar<br>
-[+] Hide and show desktop icons<br>
-[+] Send messages to infected<br>
-[+] Send keystrokes<br>
-[+] Open Word and make it write only<br>
-[+] Back crazy mouse<br>
-[+] Back crazy time<br>
-[+] You can shutdown, restart and logout computer<br>
-[+] You can load pages<br>
-[+] Can be loaded paint<br>
-[+] You can change the text of the time and write whatever they want<br>
-[+] You can turn off the monitor<br>
-[+] You can do the talking (in English) to the computer<br>
-[+] Pump Beeps<br>
-[+] You can list the available drives<br>
-[+] You can enlist the services of Windows<br>
-[+] You can list the active windows<br>
-[+] You can download files and run<br>
-[+] Incorporates a keylogger that captures active windows keys<br>
-[+] You can uninstall the RAT<br>
+You have the following options:<br>
+<br>
+[+] Principal:<br>
+<br>
+[++] Generate Key per infected<br>
+[++] Generate PHP App on the botnet from the main GUI<br>
+<br>
+[+] Functions<br>
+<br>
+[++] List directory<br>
+[++] Read files<br>
+[++] Delete Files<br>
+[++] List processes<br>
+[++] Kill processes by name<br>
+[++] Run and read commands<br>
+[++] Enable and disable regedit<br>
+[++] Enable and disable firewall<br><br>
+[++] Open and close CD<br>
+[++] Show and hide icons<br>
+[++] Show and hide taskbar<br>
+[++] Show posts<br>
+[++] Message Bomber<br>
+[++] Send keys<br>
+[++] Run Word and to write only<br>
+[++] Back crazy mouse<br>
+[++] Back crazy time<br>
+[++] Shut down, restart and logout<br>
+[++] Open pages<br>
+[++] Open paint
+[++] Change the text of the taskbar<br>
+[++] Turn off the monitor<br>
+[++] To talk to the computer<br>
+[++] Beeps Bomber<br>
+[++] List drives, services and active windows<br>
+[++] Download and run in the background with threads<br>
+[++] Change and block wallpaper<br>
+[++] Change and block the screensaver<br>
+[++] Printer Bomber<br>
+[++] Form Bomber<br>
+[++] HTML Bomber<br>
+[++] Windows Bomber<br>
+[++] Lock your mouse and keyboard<br>
+[++] Keylogger<br>
+[++] Uninstaller<br>
+<br>
+[+] DoS:<br>
+<br>
+[++] SQLI DoS<br>
+[++] HTTP Flood<br>
+[++] Socket Flood<br>
+[++] Slowloris<br>
+[++] UDP Flood<br>
+<br>
+[+] Secondary:<br>
+<br>
+[++] Hide traces<br>
+[++] Persistence<br>
+[++] UAC Tricky<br>
+[++] Extraction custom malware<br>
+[++] Edit the creation date of malware<br>
+[++] File Pumper<br>
+[++] Extension Spoofer<br>
+[++] Icon Changer<br>
 <br>
 [+] Antis:<br>
 <br>
@@ -39,6 +76,7 @@ A simple Delphi RAT I made in the following options:<br>
 [++] OllyDg<br>
 [++] Anubis<br>
 [++] Kaspersky<br>
+[++] VMWare<br>
 <br>
 [+] Disables:<br>
 <br>
@@ -49,20 +87,14 @@ A simple Delphi RAT I made in the following options:<br>
 [++] Taskmgr<br>
 [++] Regedit<br>
 [++] Updates<br>
+[++] MsConfig<br>
 <br>
-The builder has the following options:<br>
-<br>
-[+] You can set whether you want to hide files<br>
-[+] You can set whether you want to load the Rat every time you start Windows<br>
-[+] You can set where you want to install the Rat<br>
-[+] File Pumper, Extension Spoofer and Icon Changer<br>
-
 An image : 
 
-![image](http://doddyhackman.webcindario.com/images/dhrat10delphi.jpg)
+![image](http://doddyhackman.webcindario.com/images/dhrat20.jpg)
 
 An video : 
 
-[![Alt text for your video](http://img.youtube.com/vi/0qMKKpPQvmo/0.jpg)](http://www.youtube.com/watch?v=0qMKKpPQvmo)
+[![Alt text for your video](http://img.youtube.com/vi/SD8DNmtr-jI/0.jpg)](https://www.youtube.com/watch?v=SD8DNmtr-jI)
 
 Good Bye
